@@ -1,4 +1,4 @@
-$token = "1491600444:AAH12RVE2kqI-npA3jqSC5N9rgoCkWxmvk4"
+$token = "1491600444:AAFn7fuaFUrJZahN-lx6kkpCfmP21OMsSK4"
 $baseUrl = "https://api.telegram.org/bot$token/"
 
 $updatesOffsetStorageFileName = "$PSScriptRoot\offset_storage";
